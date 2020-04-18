@@ -1,0 +1,23 @@
+{
+  "name": "goodboy00-gaming-bot",
+  "version": "1.0.0",
+  "description": "This is early version of goodboy00 gaming a personal discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheBestGamerYT",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "lavalink": "^2.3.1",
+    "lavalink.js": "^0.1.1",
+    "libsodium-wrappers": "^0.7.3",
+    "opusscript": "0.0.6",
+    "simple": "^0.2.0",
+    "simple-youtube-api": "^5.1.1",
+    "superagent": "^4.1.0",
+    "youtube-api": "^2.0.10",
+    "ytdl-core": "^0.29.0"
+  }
+}
