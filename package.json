@@ -17,7 +17,7 @@
     "simple": "^0.2.0",
     "simple-youtube-api": "^5.1.1",
     "superagent": "^4.1.0",
-    "youtube-api": "^2.0.10",
+    "youtube-api": "^3.0.1",
     "ytdl-core": "^0.29.0"
   }
 }
